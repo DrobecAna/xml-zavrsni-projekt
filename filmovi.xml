@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filmovi>
+    <film>
+        <naslov>Zoolander</naslov>
+        <godina>2001</godina>
+        <reziser>Ben Stiller</reziser>
+        <tagovi>
+            <tag>komedija</tag>
+        </tagovi>
+    </film>
+    <film>
+        <naslov>About a Boy</naslov>
+        <godina>2002</godina>
+        <reziser>Chris Weitz</reziser>
+        <tagovi>
+            <tag>komedija</tag>
+            <tag>drama</tag>
+        </tagovi>
+    </film>
+    <film>
+        <naslov>Baby Driver</naslov>
+        <godina>2017</godina>
+        <reziser>Edgar Wright</reziser>
+        <tagovi>
+            <tag>kriminalistički</tag>
+            <tag>akcija</tag>
+        </tagovi>
+    </film>
+    <film>
+        <naslov>Nosferatu</naslov>
+        <godina>1922</godina>
+        <reziser>F. W. Murnau</reziser>
+        <tagovi>
+            <tag>fantazija</tag>
+            <tag>horror</tag>
+        </tagovi>
+    </film>
+    <film>
+        <naslov>The Lighthouse</naslov>
+        <godina>2019</godina>
+        <reziser>Robert Eggers</reziser>
+        <tagovi>
+            <tag>triler</tag>
+            <tag>fantazija</tag>
+            <tag>drama</tag>
+            <tag>horror</tag>
+        </tagovi>
+    </film>
+    <film>
+        <naslov>Gone Girl</naslov>
+        <godina>2014</godina>
+        <reziser>David Fincher</reziser>
+        <tagovi>
+            <tag>drama</tag>
+            <tag>triler</tag>
+            <tag>misterija</tag>
+        </tagovi>
+    </film>
+</filmovi>

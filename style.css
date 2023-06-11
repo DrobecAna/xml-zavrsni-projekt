@@ -1,0 +1,120 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #0A0908;
+    padding: 0px;
+    margin: 0px;
+}
+
+#formbox{
+    width: 25%;
+    height: 40%;
+    margin: 5%  auto;
+    background-color: #fff;
+    padding: 40px 60px;
+    border-radius: 20px;
+}
+
+.input{
+    width: 95%;
+    height: 20px;
+    margin: 10px 0px;
+}
+
+
+
+.send{
+    padding: 10px 20px;
+    background-color: #d43535;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 15px;
+    color: #fff;
+    margin: 50px 0 0 0;
+}
+
+.send:hover{
+    background-color: #e32424;
+    cursor: pointer;
+}
+
+.poruka{
+    background-color: #fff;
+    width: 25%;
+    height: 40%;
+    margin: 5%  auto;
+    padding: 40px 60px;
+    border-radius: 20px;
+}
+
+#container{
+    background-color: #fff;
+    width: 70%;
+    margin: 0 auto;
+    padding: 1% 5% 5% 5%;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.odjava{
+    color: #000;
+    margin: 25px 0;
+    text-decoration: none;
+}
+
+table{
+    width: 100%;
+    margin-top: -40px;
+    
+}
+th, td{
+    width: 25%;
+    
+}
+
+thead{
+    /*font-weight: bold;*/
+    height: 60px;
+    color: #b3afaf;
+    vertical-align: bottom;
+}
+
+td{
+
+    height: 60px;
+}
+
+tbody{
+    vertical-align:top;
+}
+
+.gumb{
+    padding: 10px 20px;
+    width:150px;
+    background-color: #d43535;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 15px;
+    color: #fff;
+    
+}
+
+.gumb:hover{
+    background-color: #e32424;
+    cursor: pointer;
+}
+
+h3{
+    font-weight: 100;
+}
+
+h1{
+    font-weight: 300;
+}
+
+h2{
+    margin-bottom: 70px;
+}
